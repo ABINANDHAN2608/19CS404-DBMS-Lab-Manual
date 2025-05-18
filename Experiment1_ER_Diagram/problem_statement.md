@@ -35,9 +35,9 @@ Design a database to manage students, instructors, programs, courses, and studen
 
 # ER Diagram Submission 
 
-NAME - DHIVYA DHARSHNI.B
+NAME - ABINANDHAN.G
 
-REGISTER NUMBER - 212223060054
+REGISTER NUMBER - 212223060003
 
 ## Scenario Chosen:
 University ER Diagram
