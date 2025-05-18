@@ -1,5 +1,8 @@
 # DBMS Laboratory Manual Submission
 
+## NAME: ABINANDHAN.G
+## REG NO: 212223060003
+
 ## 🎓 Course: 19CS404 Database Management System and its Applications  
 ## 🧑‍🏫 Instructor: Ms. G Abinaya 
 
