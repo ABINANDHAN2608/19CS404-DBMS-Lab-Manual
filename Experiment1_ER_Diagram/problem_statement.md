@@ -1,5 +1,9 @@
 # Experiment 1: Entity-Relationship (ER) Diagram
 
+## NAME: ABINANDHAN G
+## REG NO: 212223060003
+
+
 ## 🎯 Objective:
 To understand and apply the concepts of ER modeling by creating an ER diagram for a University Database that manages students, instructors, departments, programs, courses, enrollments, and prerequisites.
 
